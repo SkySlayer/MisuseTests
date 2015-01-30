@@ -1,0 +1,8 @@
+1. Build the program with :
+    make
+
+2. Run the program with :
+    make test
+
+Figure out why the program hangs and fix it.
+

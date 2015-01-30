@@ -1,0 +1,11 @@
+1. Build the program with :
+    make
+
+2. Generate the inputs with:
+    python gen_input.py
+
+3. Run the program with :
+    make test
+
+4. Check the output dir, you will find some output is missed. Figure out the reason and fix it.
+

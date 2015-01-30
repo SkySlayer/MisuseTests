@@ -1,0 +1,18 @@
+tbb_dir = /Users/xuepengfan/tools/tbb43_20141009oss
+tbb_header_dir=$(tbb_dir)/include
+tbb_lib_dir = $(tbb_dir)/bin/_release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+tbb_patch_dir = /Users/xuepengfan/git/Radar/test_suite/tbb-patch/tbb43
+tbb_header_dir=$(tbb_patch_dir)/include
+tbb_lib_dir = $(tbb_patch_dir)/build/bin/_release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+1. Build the program with :
+    make
+
+Figure out why the build fails and fix it.
+

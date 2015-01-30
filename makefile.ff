@@ -1,0 +1,21 @@
+ff_dir = /Users/xuepengfan/tools/functionflow
+CXX = g++-4.9
+CXXFLAGS = -std=c++11 -I$(ff_dir)/ff/include -Wl,-rpath $(ff_dir)/bin -L$(ff_dir)/bin  -O2
+FF_FLAGS = -DUSING_WORK_STEALING_QUEUE
+
+LINK_FLAGS = -lff -lpthread
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+1. Build the program with :
+    make
+
+2. You need to implement parallel_get_depth()
+
+Basically, the mission is to get a binary trees depth, with TBB. 
+
+Have fun!
+
